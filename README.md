@@ -13,12 +13,14 @@ Welcome to my collection of LeetCode problems solved using **LeetHub v2**.
 ## 🧠 Languages Used
 C++ | Java | Python
 
-## 📈 Progress Tracker
+## 📝 Progress Tracker
+
 | Difficulty | Solved | Total | Progress |
 |-------------|---------|--------|-----------|
-| Easy | 20 | 700 | ![Progress](https://progress-bar.dev/3/?title=Easy) |
-| Medium | 10 | 800 | ![Progress](https://progress-bar.dev/1/?title=Medium) |
-| Hard | 2 | 400 | ![Progress](https://progress-bar.dev/0.5/?title=Hard) |
+| Easy | 20 | 700 | ![Progress](https://progress-bar.dev/3/?title=Easy&color=green) |
+| Medium | 10 | 800 | ![Progress](https://progress-bar.dev/1/?title=Medium&color=orange) |
+| Hard | 2 | 400 | ![Progress](https://progress-bar.dev/0.5/?title=Hard&color=red) |
+
 
 ## 🏆 Goals
 - Complete Striver’s DSA Sheet  
