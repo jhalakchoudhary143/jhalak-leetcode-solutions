@@ -13,13 +13,12 @@ Welcome to my collection of LeetCode problems solved using **LeetHub v2**.
 ## 🧠 Languages Used
 C++ | Java | Python
 
-## 📝 Progress Tracker
-
 | Difficulty | Solved | Total | Progress |
 |-------------|---------|--------|-----------|
-| Easy | 20 | 700 | ![Progress](https://progress-bar.dev/3/?title=Easy&color=green) |
-| Medium | 10 | 800 | ![Progress](https://progress-bar.dev/1/?title=Medium&color=orange) |
-| Hard | 2 | 400 | ![Progress](https://progress-bar.dev/0.5/?title=Hard&color=red) |
+| Easy | 20 | 700 | ![Easy](https://img.shields.io/badge/Progress-3%25-green?style=for-the-badge) |
+| Medium | 10 | 800 | ![Medium](https://img.shields.io/badge/Progress-1%25-orange?style=for-the-badge) |
+| Hard | 2 | 400 | ![Hard](https://img.shields.io/badge/Progress-0.5%25-red?style=for-the-badge) |
+
 
 
 ## 🏆 Goals
