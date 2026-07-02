@@ -40,6 +40,7 @@ C++ | Java | Python
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -57,4 +58,21 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
