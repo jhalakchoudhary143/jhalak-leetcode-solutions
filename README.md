@@ -41,6 +41,7 @@ C++ | Java | Python
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -75,4 +76,8 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
