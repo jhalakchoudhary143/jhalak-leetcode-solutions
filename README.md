@@ -66,6 +66,7 @@ C++ | Java | Python
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -83,4 +84,20 @@ C++ | Java | Python
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
