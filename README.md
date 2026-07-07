@@ -39,6 +39,7 @@ C++ | Java | Python
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
@@ -92,6 +93,7 @@ C++ | Java | Python
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -101,4 +103,8 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
