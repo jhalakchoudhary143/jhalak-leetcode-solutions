@@ -57,6 +57,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +66,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
@@ -114,4 +116,8 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
