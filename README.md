@@ -95,11 +95,13 @@ C++ | Java | Python
 | ------- |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
