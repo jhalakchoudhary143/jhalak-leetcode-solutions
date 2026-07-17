@@ -34,6 +34,7 @@ C++ | Java | Python
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -93,6 +94,7 @@ C++ | Java | Python
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -122,4 +124,8 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
