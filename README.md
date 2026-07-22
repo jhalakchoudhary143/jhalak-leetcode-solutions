@@ -36,6 +36,7 @@ C++ | Java | Python
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -61,6 +62,7 @@ C++ | Java | Python
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -73,11 +75,13 @@ C++ | Java | Python
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -138,4 +142,12 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
