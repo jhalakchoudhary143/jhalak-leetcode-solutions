@@ -36,6 +36,7 @@ C++ | Java | Python
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -138,6 +139,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,5 +151,6 @@ C++ | Java | Python
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
