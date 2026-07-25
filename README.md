@@ -48,6 +48,7 @@ C++ | Java | Python
 | [0008-string-to-integer-atoi](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -112,6 +113,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -153,4 +155,8 @@ C++ | Java | Python
 | ------- |
 | [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
