@@ -102,6 +102,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -164,12 +165,15 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
