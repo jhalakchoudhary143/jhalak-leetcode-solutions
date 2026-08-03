@@ -39,6 +39,7 @@ C++ | Java | Python
 | [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -68,6 +69,7 @@ C++ | Java | Python
 | [0049-group-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Trie
@@ -139,6 +141,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -190,4 +193,16 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
