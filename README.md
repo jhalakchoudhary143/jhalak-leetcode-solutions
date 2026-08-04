@@ -119,6 +119,7 @@ C++ | Java | Python
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -154,6 +155,7 @@ C++ | Java | Python
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
