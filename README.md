@@ -74,6 +74,7 @@ C++ | Java | Python
 | [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3903-smallest-stable-index-i](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
@@ -245,4 +246,8 @@ C++ | Java | Python
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
