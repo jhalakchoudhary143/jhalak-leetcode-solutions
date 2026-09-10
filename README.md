@@ -195,6 +195,7 @@ C++ | Java | Python
 | [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ C++ | Java | Python
 | [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -223,6 +225,7 @@ C++ | Java | Python
 | [0145-binary-tree-postorder-traversal](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
