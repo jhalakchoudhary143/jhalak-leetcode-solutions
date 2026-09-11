@@ -75,6 +75,7 @@ C++ | Java | Python
 | [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
@@ -91,6 +92,7 @@ C++ | Java | Python
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ C++ | Java | Python
 | [0002-add-two-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,4 +260,8 @@ C++ | Java | Python
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
