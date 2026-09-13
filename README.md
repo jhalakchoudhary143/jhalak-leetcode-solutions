@@ -74,6 +74,7 @@ C++ | Java | Python
 | [0268-missing-number](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/jhalakchoudhary143/jhalak-leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
